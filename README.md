@@ -34,3 +34,6 @@ How to make a discord bot in NodeJS.
   }
 }
 ```
+8. Make sure to save. Type into your command line: `npm install`, then wait for it to finish installing. If there are any errors ask someone else to help.
+9. Create a index.js file from atom. You can do this by right clicking the folder tree view (on the right of atom) and selecting create file.
+10. Open index.js in atom and type:
